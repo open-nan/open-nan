@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/open-nan/open-nan/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/open-nan/open-nan/output/github-contribution-grid-snake.svg" />
 </picture>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
