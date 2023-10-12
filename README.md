@@ -1,6 +1,7 @@
 # 欢迎来我的github主页，
-# 你是这里的第 ![:open-nan](https://count.getloli.com/get/@:open-nan) 个访客
+### 你是这里的第 ![:open-nan](https://count.getloli.com/get/@:open-nan) 个访客
 我是NAN，一个前端开发工程师  
+
 这是我的博客地址: [epxort-nan.work](epxort-nan.work)  
 希望你在这里中找到灵感  
 
